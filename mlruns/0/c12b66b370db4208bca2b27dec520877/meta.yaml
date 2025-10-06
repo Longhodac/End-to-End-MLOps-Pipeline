@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/long1/sond/Projects/networksecurity/End-to-End-MLOps-Pipeline/mlruns/0/c12b66b370db4208bca2b27dec520877/artifacts
+end_time: 1759730208667
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c12b66b370db4208bca2b27dec520877
+run_name: chill-dolphin-411
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759730202780
+status: 3
+tags: []
+user_id: long1

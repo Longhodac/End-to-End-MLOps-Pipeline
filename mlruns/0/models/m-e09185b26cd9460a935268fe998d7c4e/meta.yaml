@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/long1/sond/Projects/networksecurity/End-to-End-MLOps-Pipeline/mlruns/0/models/m-e09185b26cd9460a935268fe998d7c4e/artifacts
+creation_timestamp: 1759730202913
+experiment_id: '0'
+last_updated_timestamp: 1759730208653
+model_id: m-e09185b26cd9460a935268fe998d7c4e
+model_type: null
+name: model
+source_run_id: c12b66b370db4208bca2b27dec520877
+status: 2
+status_message: null
